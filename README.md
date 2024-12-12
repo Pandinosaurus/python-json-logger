@@ -1,3 +1,5 @@
+# This project has been retired and is no longer actively maintained. We recommend transitioning to [nhairs/python-json-logger](https://github.com/nhairs/python-json-logger) for continued development, updates, and community support. Thank you for your understanding and for supporting this project over the years!
+
 ![Build Status](https://github.com/madzak/python-json-logger/actions/workflows/build.yml/badge.svg)
 [![License](https://img.shields.io/pypi/l/python-json-logger.svg)](https://pypi.python.org/pypi/python-json-logger/)
 [![Version](https://img.shields.io/pypi/v/python-json-logger.svg)](https://pypi.python.org/pypi/python-json-logger/)
